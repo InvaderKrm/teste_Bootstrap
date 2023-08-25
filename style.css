@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'header';
+    src: url(comic_kings/Comic\ Kings.ttf);
+}
+@font-face {
+    font-family: 'corpo';
+    src: url(happy_food/Happy\ Food.ttf);
+}
+header h1 {
+    font-family: 'header';
+    color: white;
+    margin-top: 30px;
+    font-size: 110px;
+    -webkit-text-stroke-width: 5px;
+    -webkit-text-stroke-color: rgb(29, 21, 6);
+    text-shadow: 0 0 10px #000000;
+}
+h2 h4 p {
+    font-family: 'corpo';
+}
