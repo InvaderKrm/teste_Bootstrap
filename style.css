@@ -9,34 +9,34 @@
 header h1 {
     font-family: 'header';
     color: white;
-    margin-top: 30px;
-    font-size: 110px;
+    margin-top: 2%;
+    font-size: 450%;
     -webkit-text-stroke-width: 5px;
     -webkit-text-stroke-color: rgb(29, 21, 6);
     text-shadow: 0 0 10px #000000;
 }
 h2, h4 {
     font-family: 'header';
-    margin-top: 15px;
+    margin-top: 2%;
     color: white;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: rgb(29, 21, 6);
     text-shadow: 0 0 3px #000000;
 }
 h4 {
-    margin-bottom: -16px;
+    margin-top: 4%;
+    margin-bottom: -3%;
 }
 h2 {
     margin-bottom: -10px;
 }
 p {
     font-family: 'corpo';
-    font-size: 20px;
-    margin-top: 10px;
+    font-size: 120%;
+    margin-top: 2%;
 }
 main {
     text-align: center;
-    padding-left: 186px;
 }
 main img {
     border-radius: 8px;
@@ -51,6 +51,9 @@ footer img {
     position: relative;
     margin: 20px auto;
     transition: 1s box-shadow;
+}
+footer p {
+    margin-top: -2%;
 }
 footer img:hover {
     box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.637);
